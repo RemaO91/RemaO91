@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RemaO91
 - 👀 I’m interested in Cloud Computing 
-- 🌱 I’m currently learning AWS, Data & SQL
+- 🌱 I’m currently learning AWS, CompTIA Linux +, Python
 - 💞️ I’m looking to collaborate on exciting and interesting projects 
 - 📫 How to reach me rema_omard@hotmail.com 
 - 😄 Pronouns: She/her 
